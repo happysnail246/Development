@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Chocolate Chip Cookies",
+      "description": "Four classic chocolate chip cookies",
+      "price": 7.99,
+      "image": "images/anika.png",
+      "calories": 100,
+      "dietary": ["nut-free"],
+      "type": "pastry",
+      "popularity": 1
+
+    },
+    {
+      "name": "Matcha Mille Crepe Cake",
+      "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+      "price": 4.99,
+      "image": "images/aubrey.png",
+      "calories": 20002,
+      "dietary": ["gluten-free"],
+      "type": "cake",
+      "popularity": 4
+    },
+    {
+      "name": "Egg Custard Bun",
+      "description": "A fluffy steamed bun with a savory egg filling",
+      "price": 2.99,
+      "image": "images/connie.png",
+      "calories": 3,
+      "dietary": ["dairy-free"],
+      "type": "bread",
+      "popularity": 2
+    },
+    {
+      "name": "Steamed Taro Buns",
+      "description": "Two soft steamed buns filled with gooey purple taro filling",
+      "price": 5.99,
+      "image": "images/dylan.png",
+      "calories": 4,
+      "dietary": ["nut-free"], 
+      "type": "bread",
+      "popularity": 3
+    },
+    {
+      "name": "Chocolate Fudge Brownie",
+      "description": "A rich fudge brownie drizzled with chocolate ganache",
+      "price": 3.99,
+      "image": "images/isaac.png",
+      "calories": 5,
+      "dietary": ["dairy-free"],
+      "type": "pastry",
+      "popularity": 6
+    },
+    {
+      "name": "Macarons",
+      "description": "A box of three macarons in assorted flavors",
+      "price": 4.99,
+      "image": "images/jeff.png",
+      "calories": 6,
+      "dietary": ["gluten-free", "nut-free", "dairy-free"], 
+      "type": "pastry",
+      "popularity": 5
+    },
+    {
+      "name": "Multigrain Bread",
+      "description": "A loaf of fresh-baked multigrain bread",
+      "price": 4.99,
+      "image": "images/jenny.png",
+      "calories": 7,
+      "dietary": ["nut-free"],
+      "type": "bread",
+      "popularity": 7
+    },
+    {
+      "name": "Croissant",
+      "description": "A classic butter croissant with a flaky crust",
+      "price": 2.99,
+      "image": "images/jessie.png",
+      "calories": 8,
+      "dietary": ["dairy-free"],
+      "type": "bread",
+      "popularity": 8
+    },
+    {
+      "name": "Toast with Butter",
+      "description": "A slice of toast with a pat of butter",
+      "price": 1.99,
+      "image": "images/kelly.png",
+      "calories": 9,
+      "dietary": ["gluten-free"],
+      "type": "bread",
+      "popularity": 10
+    },
+    {
+      "name": "Tiramisu",
+      "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+      "price": 3.99,
+      "image": "images/lauren.png",
+      "calories": 109,
+      "dietary": ["nut-free"],
+      "type": "cake",
+      "popularity": 9
+    },
+    {
+      "name": "Egg Tart",
+      "description": "A flaky pastry shell filled with a sweet egg custard",
+      "price": 2.99,
+      "image": "images/melissa.png",
+      "calories": 11,
+      "dietary": ["dairy-free"],
+      "type": "pastry",
+      "popularity": 11
+    },
+    {
+      "name": "Everything Bagel",
+      "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+      "price": 2.99,
+      "image": "images/miku.png",
+      "calories": 12,
+      "dietary": ["gluten-free"],
+      "type": "bread",
+      "popularity": 12
+    },
+    {
+      "name": "Gingerbread Man",
+      "description": "A soft gingerbread cookie with a sweet icing glaze",
+      "price": 2.99,
+      "image": "images/nick.png",
+      "calories": 13,
+      "dietary": ["nut-free"],
+      "type": "pastry",
+      "popularity": 13
+    },
+    {
+      "name": "Cheesecake",
+      "description": "A slice of classic New York cheesecake topped with strawberry",
+      "price": 3.99,
+      "image": "images/sunny.png",
+      "calories": 14,
+      "dietary": ["dairy-free", "nut-free"],
+      "type": "pastry",
+      "popularity": 14
+    },
+    {
+      "name": "Cream Puff",
+      "description": "Light and airy pâte à choux filled with sweet whipped cream",
+      "price": 2.99,
+      "image": "images/tongyu.png",
+      "calories": 15,
+      "dietary": ["gluten-free", "dairy-free"], 
+      "type": "pastry",
+      "popularity": 15
+    }
+  ]

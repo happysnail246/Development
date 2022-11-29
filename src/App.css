@@ -1,4 +1,52 @@
-.App {
+.leftside {
+  flex-direction: column;
+  width: 15rem;
+  margin-right: 3rem;
+  margin-left: 1rem;
+  display: flex;
+  background-color: white;
+  
+}
+
+.stuffonleft{
+  border: 2px solid rgb(66, 66, 66);
+  border-radius: 6px;
+  padding-left: 10px;
+}
+
+.rightside {
+  width: 100%;
+}
+
+.sortby{
+  margin-bottom: 10px;
+}
+
+.types{
+  margin-bottom: 10px;
+}
+
+.bakery {
+  display: flex;
+  width: 100%;
+}
+
+.rightimg {
+  height: auto;
+  width: auto;
+  max-height: 2700px;
+  max-width: 290px;
+}
+
+.lefttext {
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +83,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
